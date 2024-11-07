@@ -32,4 +32,7 @@ public class Student {
 	
 	@Column(name = "eng_name", nullable = false)
 	private String displayname_en ;
+
+	
+
 }
